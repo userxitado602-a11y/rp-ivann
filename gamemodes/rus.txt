@@ -1,0 +1,13 @@
+C:\Users\USER\Downloads\Gamemode_Venta_1.0\Seoul Roleplay (base)\gamemodes\LTRP.pwn(10632) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â MuestraBloqueoPJ: âûçîâ ñ CargarCuenta C:\Users\USER\Downloads\Gamemode_Venta_1.0\Seoul Roleplay (base)\gamemodes\LTRP.pwn(10267)
+C:\Users\USER\Downloads\Gamemode_Venta_1.0\Seoul Roleplay (base)\gamemodes\LTRP.pwn(18297) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â pc_cmd_repartos
+C:\Users\USER\Downloads\Gamemode_Venta_1.0\Seoul Roleplay (base)\pawno\include\YSI\y_amx.inc(294) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â AMX_GetGlobal
+C:\Users\USER\Downloads\Gamemode_Venta_1.0\Seoul Roleplay (base)\gamemodes\LTRP.pwn(4631) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â PreguntaTestRol
+C:\Users\USER\Downloads\Gamemode_Venta_1.0\Seoul Roleplay (base)\gamemodes\LTRP.pwn(39720) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â SendReportToQue
+C:\Users\USER\Downloads\Gamemode_Venta_1.0\Seoul Roleplay (base)\gamemodes\LTRP.pwn(18414) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â CrearReparto
+C:\Users\USER\Downloads\Gamemode_Venta_1.0\Seoul Roleplay (base)\gamemodes\LTRP.pwn(38607) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â GiftPlayer
+C:\Users\USER\Downloads\Gamemode_Venta_1.0\Seoul Roleplay (base)\gamemodes\LTRP.pwn(24617) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â RandomSkinCivil
+Äëÿ îòêëþ÷åíèÿ âûâîäà ðåêóðñèé: #pragma disablerecursion
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:8.
